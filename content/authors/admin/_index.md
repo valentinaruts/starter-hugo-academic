@@ -5,16 +5,11 @@ title: Valentina Rutigliano
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Sauder School of Business
     url: https://www.sauder.ubc.ca/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include several things
 
 # Interests to show in About widget
 interests:
