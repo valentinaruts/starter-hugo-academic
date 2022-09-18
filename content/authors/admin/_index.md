@@ -54,4 +54,4 @@ highlight_name: true
 
 I am a PhD candidate in finance at the Sauder School of Business, University of British Columbia.
 
-{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
