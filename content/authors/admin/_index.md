@@ -46,7 +46,7 @@ interests:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'valentina.rutigliano@sauder.ubc.ca'
+# email: 'valentina.rutigliano@sauder.ubc.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
