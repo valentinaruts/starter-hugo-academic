@@ -24,7 +24,7 @@ interests:
 # social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:valentina.rutigliano@sauder.ubc.ca"
+    link: mailto:valentina.rutigliano@sauder.ubc.ca
  - icon: twitter
   icon_pack: fab
   link: https://twitter.com/valentinaruts
