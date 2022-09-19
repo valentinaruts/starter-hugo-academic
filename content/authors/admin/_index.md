@@ -65,4 +65,4 @@ My research interests include corporate finance, entrepreneurship, and labor eco
 
 Email: valentina.rutigliano@sauder.ubc.ca
 
-Address: HA884D, 2053 Main Mall,Vancouver, BC V6T 1Z2
+Address: HA884D, 2053 Main Mall, Vancouver, BC V6T 1Z2
