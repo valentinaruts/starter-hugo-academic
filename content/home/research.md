@@ -42,4 +42,4 @@ design:
 
 **Working Papers**
 
-Entrepreneurs' Diversification and Labor Income Risk. (with Bena, J., Ellul, A. and Pagano, M.), 2022. <ins>DRAFT COMING SOON!</ins>
+Entrepreneurs' Diversification and Labor Income Risk (with Bena, J., Ellul, A. and Pagano, M.), 2022. <ins>DRAFT COMING SOON!</ins>
