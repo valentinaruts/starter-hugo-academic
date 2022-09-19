@@ -43,6 +43,6 @@ design:
 **Working Papers**
 
 {{< icon name="file-lines" pack="fas" >}} Entrepreneurs' Diversification and Labor Income Risk (with Jan Bena, Andrew Ellul, and Marco Pagano), 2022. <ins>DRAFT COMING SOON!</ins>
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
+{{< spoiler text="Abstract" >}}
+TBA
 {{< /spoiler >}}
