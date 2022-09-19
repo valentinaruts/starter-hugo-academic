@@ -7,33 +7,37 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
-title: Working Papers
-subtitle: ''
+title: 'Teaching Experience'
+subtitle:
 
 content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: page
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
   # Filter on criteria
   filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
     author: ''
+    category: ''
+    tag: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+    publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
 
-
+Entrepreneurs' Diversification and Labor Income Risk. (with Bena, J., Ellul, A. and Pagano, M.), 2022. DRAFT COMING SOON!
