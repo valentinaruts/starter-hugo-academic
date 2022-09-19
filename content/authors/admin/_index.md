@@ -15,10 +15,10 @@ organizations:
 
 
 # Interests to show in About widget
-interests:
-  - Corporate Finance
-  - Labor Economics
-  - Entrepreneurship
+# interests:
+# - Corporate Finance
+#  - Labor Economics
+#  - Entrepreneurship
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,7 +55,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Welcome!
 
-I am a PhD candidate in finance at the Sauder School of Business, University of British Columbia.
+I am a Ph.D. candidate in Finance at the University of British Columbia, Sauder School of Business.
+
+My broad research interests include corporate finance, entrepreneurship, and labor economics.
 
 {{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
