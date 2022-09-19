@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
 title: 'Teaching Experience'
 subtitle:
@@ -40,10 +40,10 @@ design:
   view: 2
 ---
 
-Instructor
+**Instructor:**
 - COMM 371 Investment Theory (B.Com.), 2021
 
-Teaching Assistant
+**Teaching Assistant:**
 - COEC 371 Investment Theory (B.Com.), 2022
 - BAFI 502 Corporate Finance (MBA), 2019-2022
 - BAFI 500 Introductory Finance (MBA), 2018-2020
