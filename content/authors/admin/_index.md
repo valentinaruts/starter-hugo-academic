@@ -59,6 +59,10 @@ Welcome!
 
 I am a Ph.D. candidate in Finance at the University of British Columbia, Sauder School of Business.
 
-My broad research interests include corporate finance, entrepreneurship, and labor economics.
+My broad research interests include corporate finance, entrepreneurship, and labor economics. Currently, I research the effect of corporate ownership structure on workers and workers' incentives to become entrepreneurs. I am especially interested in understanding what causes the gender gap in entrepreneurship.
 
 {{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}here{{< /staticref >}}. 
+
+Email: valentina.rutigliano@sauder.ubc.ca
+
+Address: HA884D, 2053 Main Mall,Vancouver, BC V6T 1Z2
