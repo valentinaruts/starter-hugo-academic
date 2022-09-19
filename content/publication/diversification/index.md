@@ -5,7 +5,10 @@ title: Entrepreneurs' Diversification and Labor Income Risk
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Bena, J., Ellul, A., Pagano, M., and Rutigliano, V.
+  - Bena, J. 
+  - Ellul, A. 
+  - Pagano, M.
+  - Rutigliano, V.
 
 date: '2022-08-01T00:00:00Z'
 doi: ''
