@@ -39,3 +39,9 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+I have taught the following courses/modules:
+
+- *Terrestrial Primary Production* module within "Fundamentals of Ecosystem Ecology" course at Cary Institute of Ecosystem Studies
+- *PBIO 2404: Ecology and Environmental Quality* (Instructor/Lab Instructor) at University of Oklahoma
+- *PBIO 3452: Methods in Plant Ecology* (Instructor) at University of Oklahoma
