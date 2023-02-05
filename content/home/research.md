@@ -42,7 +42,15 @@ design:
 
 **Working Papers**
 
-{{< icon name="file-lines" pack="fas" >}} Entrepreneurs' Diversification and Labor Income Risk (with Jan Bena, Andrew Ellul, and Marco Pagano), 2022. <ins>DRAFT COMING SOON!</ins>
+{{< icon name="file-lines" pack="fas" >}} Entrepreneurs' Diversification and Labor Income Risk (with Jan Bena, Andrew Ellul, and Marco Pagano), 2022.
 {{< spoiler text="Abstract" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Entrepreneurs with better diversified portfolios provide more insurance to employees
+against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
+owners, firms owned by more diversified entrepreneurs offer more stable jobs and
+earnings to employees when faced by idiosyncratic shocks. A one standard deviation
+increase in owner’s diversification reduces the shock’s pass-through rate to labor
+layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
+insurance being partly provided to retain valuable human capital and partly to avoid
+costly terminations. There is no evidence of insurance being priced in average wages.
+
 {{< /spoiler >}}
