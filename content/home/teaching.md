@@ -26,7 +26,7 @@ experience:
     company: University of British Columbia
     company_url: 'https://www.ubc.ca/'
     company_logo:
-    location: Edinburgh, Scotland, UK
+    location: 
     date_start: '2013-01-07'
     date_end: ''
     description: COMM 371 Investment Theory (B.Com.), 2021
@@ -35,7 +35,7 @@ experience:
     company: University of British Columbia
     company_url: 'https://www.ubc.ca/'
     company_logo: 
-    location: Edinburgh, Scotland, UK
+    location: 
     date_start: '2009-10-01'
     date_end: '2014-05-31'
     description: |2-
