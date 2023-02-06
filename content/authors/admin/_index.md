@@ -58,7 +58,7 @@ highlight_name: true
 Welcome!
 
 I am a Ph.D. candidate in Finance at the University of British Columbia, Sauder School of Business.
-
+{style="text-align: justify;"}
 My research interests include corporate finance, entrepreneurship, and labor economics. Currently, I research the effect of corporate ownership structure on workers and the determinants of entrepreneurial entry and success. I am especially interested in understanding what causes the persistent gender gap in entrepreneurship.
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
