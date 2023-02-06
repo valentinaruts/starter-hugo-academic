@@ -19,9 +19,9 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of the Philippines, Diliman"
+  organization = "(with [Jan Bena](https://www.janbena.com), [Andrew Ellul](https://sites.google.com/view/andrewellul/home/), and [Marco Pagano](https://sites.google.com/view/marcopagano))."
   organization_url = ""
-  title = "🎓 Bachelor of Science in Statistics"
+  title = "Entrepreneurs' Diversification and Labor Income Risk"
   url = ""
   certificate_url = ""
   date_start = "2013-10-01"
