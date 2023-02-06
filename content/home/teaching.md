@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -12,40 +12,39 @@ weight: 50
 title: 'Teaching'
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: page
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ''
-    category: ''
-    tag: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ''
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Research Associate
+    company: University of Edinburgh
+    company_url: 'https://www.ed.ac.uk/'
+    company_logo: University_of_Edinburgh-Logo_2
+    location: Edinburgh, Scotland, UK
+    date_start: '2013-01-07'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Modelling & Simulation
+        * Experimental analysis and Calibration
+        * Data Analysis
+        
+  - title: Consultant
+    company: University of Edinburgh
+    company_url: 'https://www.ed.ac.uk/'
+    company_logo: logo_granular_def
+    location: Edinburgh, Scotland, UK
+    date_start: '2013-07-01'
+    date_end: ''
+    description: Consultant in the field of particulate mechanics
 
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  columns: '2'
 ---
-
-**Instructor**
-- COMM 371 Investment Theory (B.Com.), 2021
-
-**Teaching Assistant**
-- BAFI 502 Corporate Finance (MBA), 2019-2023
-- COEC 371 Investment Theory (B.Com.), 2022
-- BAFI 500 Introductory Finance (MBA), 2018-2020
-- COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
-- COMM 371 Investment Theory (B.Com.), 2018-2019
