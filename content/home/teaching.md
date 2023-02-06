@@ -51,5 +51,9 @@ experience:
 
 design:
   columns: '2'
+  
+  # Background gradient.
+  gradient_start = "#F7F7F7"
+  gradient_end = "#FAE8BF"
 ---
 
