@@ -37,15 +37,11 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = ""
   description = """
-  •	BAFI 502 Corporate Finance (MBA), 2019-2023
-  
-  •	COEC 371 Investment Theory (B.Com.), 2022
-  
-  •	BAFI 500 Introductory Finance (MBA), 2018-2020
-  
-  •	COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
-  
-  •	COMM 371 Investment Theory (B.Com.), 2018-2019
+  *	BAFI 502 Corporate Finance (MBA), 2019-2023
+  *	COEC 371 Investment Theory (B.Com.), 2022
+  * BAFI 500 Introductory Finance (MBA), 2018-2020
+  * COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
+  * COMM 371 Investment Theory (B.Com.), 2018-2019
 
   """
 
