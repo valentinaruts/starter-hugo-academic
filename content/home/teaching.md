@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.ubc.ca/'
     company_logo:
     location: 
-    date_start: '2013-01-07'
+    date_start: '2021-09-01'
     date_end: ''
     description: COMM 371 Investment Theory (B.Com.), 2021
     
@@ -36,10 +36,9 @@ experience:
     company_url: 'https://www.ubc.ca/'
     company_logo: 
     location: 
-    date_start: '2009-10-01'
-    date_end: '2014-05-31'
+    date_start: '2018-01-01'
+    date_end: ''
     description: |2-
-        Tutor & Demonstrator for several undergraduate courses including:
 
         * BAFI 502 Corporate Finance (MBA), 2019-2023
         * COEC 371 Investment Theory (B.Com.), 2022
