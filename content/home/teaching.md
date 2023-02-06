@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Associate
-    company: University of Edinburgh
-    company_url: 'https://www.ed.ac.uk/'
+  - title: Instructor
+    company: University of British Columbia
+    company_url: 'https://www.ubc.ca/'
     company_logo:
     location: Edinburgh, Scotland, UK
     date_start: '2013-01-07'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: * COMM 371 Investment Theory (B.Com.), 2021
+
         
-        * Modelling & Simulation
-        * Experimental analysis and Calibration
-        * Data Analysis
-        
-  - title: Consultant
-    company: University of Edinburgh
-    company_url: 'https://www.ed.ac.uk/'
+  - title: Teaching Assistant
+    company: University of British Columbia
+    company_url: 'https://www.ubc.ca/'
     company_logo: 
     location: Edinburgh, Scotland, UK
     date_start: '2013-07-01'
     date_end: ''
-    description: Consultant in the field of particulate mechanics
+    description: 
+    - BAFI 502 Corporate Finance (MBA), 2019-2023
+- COEC 371 Investment Theory (B.Com.), 2022
+- BAFI 500 Introductory Finance (MBA), 2018-2020
+- COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
+- COMM 371 Investment Theory (B.Com.), 2018-2019
 
 design:
   columns: '2'
