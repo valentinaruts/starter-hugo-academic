@@ -48,9 +48,6 @@ experience:
         * COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
         * COMM 371 Investment Theory (B.Com.), 2018-2019
 
-design:
-  columns: '2'
-  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -62,10 +59,10 @@ design:
   
   # Background gradient.
   gradient_start = "#F7F7F7"
-  gradient_end = "#A5DDC5"
+  gradient_end = "#FAE8BF"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["25px", "0", "70px", "0"]
----
+  padding = ["0px", "0", "10px", "0"]
++++
 
