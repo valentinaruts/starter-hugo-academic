@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "(with [Jan Bena](https://www.janbena.com), [Andrew Ellul](https://sites.google.com/view/andrewellul/home/), and [Marco Pagano](https://sites.google.com/view/marcopagano))."
   organization_url = ""
-  title = "Entrepreneurs' Diversification and Labor Income Risk"
+  title = "{{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}"
   url = ""
   certificate_url = ""
   date_start = "2013-10-01"
