@@ -29,7 +29,7 @@ experience:
     location: Edinburgh, Scotland, UK
     date_start: '2013-01-07'
     date_end: ''
-    description: * COMM 371 Investment Theory (B.Com.), 2021
+    description: - COMM 371 Investment Theory (B.Com.), 2021
 
         
   - title: Teaching Assistant
