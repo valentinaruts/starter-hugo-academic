@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,26 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Associate Technical Consultant"
-  company = "SAS Institute"
-  company_url = ""
-  location = "Manila, Philippines"
-  date_start = "2017-09-15"
-  date_end = "2019-10-30"
+  title = "Instructor"
+  company = "University of British Columbia"
+  company_url = "https://www.ubc.ca/"
+  location = ""
+  date_start = "2021-09-01"
+  date_end = ""
   description = """
-  • Gathered business rules & requirements from subject matter experts to map data from multiple sources into a consolidated data mart to be used for reporting   
+  •	COMM 371 Investment Theory (B.Com.), 2021   
 
-  • Developed, tested, and deployed both reusable and custom components of ETL processes using SAS and SQL code    
-
-  • As a developer, performed data preparation, cleansing, and integration, and ensured data quality and integrity  
-
-  • Handled large data sets, retrieving them from either an MS SQL Server or Hadoop Distributed File System (HDFS)  
-
-  • Optimized existing SAS Data Integration Studio jobs & SQL code that produced reports    
-
-  • Provided documentation of processes to clients across all projects   
-
-  • Projects as a consultant were primarily in the banking industry using SAS Data Integration Studio and SAS Enterprise Guide
   """
 
 [[experience]]
