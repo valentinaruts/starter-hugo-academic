@@ -38,6 +38,23 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  gradient_start = "#F7F7F7"
+  gradient_end = "#A5DDD3"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0px", "0", "6px", "0"]
 ---
 
 **Working Papers**
@@ -56,19 +73,4 @@ costly terminations. There is no evidence of insurance being priced in average w
 {style="text-align: justify;"}
 {{< /spoiler >}}
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
 
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  gradient_start = "#F7F7F7"
-  gradient_end = "#A5DDD3"
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "6px", "0"]
