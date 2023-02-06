@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-09-01"
   date_end = ""
   description = """
-  •	COMM 371 Investment Theory (B.Com.), 2021   
+  *	COMM 371 Investment Theory (B.Com.), 2021   
 
   """
 
