@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   
   # Background gradient.
   gradient_start = "#F7F7F7"
-  gradient_end = "#B8E4F5"
+  gradient_end = "#A5DDD3"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
