@@ -1,53 +1,74 @@
 +++
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
-
-active = true  # Activate this widget? true/false
-# Order that this section appears on the page.
-weight: 50
-
-title: 'Teaching'
-subtitle:
+title = "experience"
+subtitle = ""
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Instructor
-    company: University of British Columbia
-    company_url: 'https://www.ubc.ca/'
-    company_logo:
-    location: 
-    date_start: '2021-09-01'
-    date_end: ''
-    description: |2-
-      
-        * COMM 371 Investment Theory (B.Com.), 2021
-    
-  - title: Teaching Assistant
-    company: University of British Columbia
-    company_url: 'https://www.ubc.ca/'
-    company_logo: 
-    location: 
-    date_start: '2018-01-01'
-    date_end: ''
-    description: |2-
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Associate Technical Consultant"
+  company = "SAS Institute"
+  company_url = ""
+  location = "Manila, Philippines"
+  date_start = "2017-09-15"
+  date_end = "2019-10-30"
+  description = """
+  • Gathered business rules & requirements from subject matter experts to map data from multiple sources into a consolidated data mart to be used for reporting   
 
-        * BAFI 502 Corporate Finance (MBA), 2019-2023
-        * COEC 371 Investment Theory (B.Com.), 2022
-        * BAFI 500 Introductory Finance (MBA), 2018-2020
-        * COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
-        * COMM 371 Investment Theory (B.Com.), 2018-2019
+  • Developed, tested, and deployed both reusable and custom components of ETL processes using SAS and SQL code    
+
+  • As a developer, performed data preparation, cleansing, and integration, and ensured data quality and integrity  
+
+  • Handled large data sets, retrieving them from either an MS SQL Server or Hadoop Distributed File System (HDFS)  
+
+  • Optimized existing SAS Data Integration Studio jobs & SQL code that produced reports    
+
+  • Provided documentation of processes to clients across all projects   
+
+  • Projects as a consultant were primarily in the banking industry using SAS Data Integration Studio and SAS Enterprise Guide
+  """
+
+[[experience]]
+  title = "On-the-Job Trainee"
+  company = "SAS Institute"
+  company_url = ""
+  location = "Manila, Philippines"
+  date_start = "2017-07-01"
+  date_end = "2017-09-14"
+  description = """
+  To better understand post-paid customers, performed cluster and profile analysis for the Advanced Analytics team of a telecommunications company using SAS Data Integration Studio and SAS Enterprise Guide.
+  """
+  
+ [[experience]]
+  title = "SAS Bootcamper"
+  company = "SAS Institute"
+  company_url = ""
+  location = "Manila, Philippines"
+  date_start = "2017-06-01"
+  date_end = "2017-07-14"
+  description = """Underwent six weeks of hands-on and classroom training using the following tools and solutions: Base SAS Software, SAS Enterprise Guide, SAS Data Integration Studio, SAS Visual Analytics, SAS Enterprise Miner, SAS Customer Intelligence Studio.
+  """
+
+# [[experience]]
+#  title = "🎓 Bachelor of Science in Statistics"
+#  company = "Univeristy of the Philippines"
+#  location = "Manila, Philippines"
+#  date_start = "2013-06-01"
+#  date_end = "2017-06-14"
+  
+
 
 [design.background]
   # Apply a background color, gradient, or image.
