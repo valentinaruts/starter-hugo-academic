@@ -47,13 +47,11 @@ experience:
         * BAFI 500 Introductory Finance (MBA), 2018-2020
         * COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
         * COMM 371 Investment Theory (B.Com.), 2018-2019
-
-
-design:
-  columns: '2'
-  
   # Background gradient.
   gradient_start = "#F7F7F7"
   gradient_end = "#FAE8BF"
+
+design:
+  columns: '2'
 ---
 
