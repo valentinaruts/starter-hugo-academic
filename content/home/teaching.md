@@ -30,32 +30,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "On-the-Job Trainee"
-  company = "SAS Institute"
-  company_url = ""
-  location = "Manila, Philippines"
-  date_start = "2017-07-01"
-  date_end = "2017-09-14"
+  title = "Teaching Assistant"
+  company = "University of British Columbia"
+  company_url = "https://www.ubc.ca/"
+  location = ""
+  date_start = "2018-01-01"
+  date_end = ""
   description = """
-  To better understand post-paid customers, performed cluster and profile analysis for the Advanced Analytics team of a telecommunications company using SAS Data Integration Studio and SAS Enterprise Guide.
-  """
-  
- [[experience]]
-  title = "SAS Bootcamper"
-  company = "SAS Institute"
-  company_url = ""
-  location = "Manila, Philippines"
-  date_start = "2017-06-01"
-  date_end = "2017-07-14"
-  description = """Underwent six weeks of hands-on and classroom training using the following tools and solutions: Base SAS Software, SAS Enterprise Guide, SAS Data Integration Studio, SAS Visual Analytics, SAS Enterprise Miner, SAS Customer Intelligence Studio.
+  •	BAFI 502 Corporate Finance (MBA), 2019-2023
+  •	COEC 371 Investment Theory (B.Com.), 2022
+  •	BAFI 500 Introductory Finance (MBA), 2018-2020
+  •	COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
+  •	COMM 371 Investment Theory (B.Com.), 2018-2019
+
   """
 
-# [[experience]]
-#  title = "🎓 Bachelor of Science in Statistics"
-#  company = "Univeristy of the Philippines"
-#  location = "Manila, Philippines"
-#  date_start = "2013-06-01"
-#  date_end = "2017-06-14"
   
 
 
