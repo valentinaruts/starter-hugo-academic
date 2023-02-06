@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "18th National Student-Faculty Conference on the Statistical Sciences"
   organization_url = ""
-  title = "{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}"
+  title = "{{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}"
   url = ""
   certificate_url = ""
   date_start = "2017-10-01"
