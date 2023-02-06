@@ -30,15 +30,6 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 3
-  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -55,6 +46,15 @@ design:
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["0px", "0", "6px", "0"]
+
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 3
 ---
 
 **Working Papers**
