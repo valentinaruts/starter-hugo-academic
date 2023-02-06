@@ -1,11 +1,11 @@
 ---
 title: My page
 type: landing
-
+weight: 50
 sections:
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Research
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
