@@ -84,4 +84,5 @@ insurance being partly provided to retain valuable human capital and partly to a
 {{< /spoiler >}}
 
 <h2>Work in Progress</h2>
-
+<h3>
+{{< icon name="file-lines" pack="fas" >}}The Entrepreneurship Gap</ins> </h3>
