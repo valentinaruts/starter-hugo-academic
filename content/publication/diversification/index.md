@@ -5,6 +5,9 @@ title: Entrepreneurs' Diversification and Labor Income Risk
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - [Jan Bena](https://www.janbena.com)
+  - [Andrew Ellul](https://sites.google.com/view/andrewellul/home/)
+  - [Marco Pagano](https://sites.google.com/view/marcopagano)
   - admin
 
 # date: ''
@@ -20,7 +23,7 @@ authors:
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: (with Bena, J., Ellul, A. and Pagano, M.), 2022
+publication:
 publication_short: 
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -69,13 +72,5 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
