@@ -49,7 +49,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FAE8BF"
+  gradient_start = "#F7F7F7"
   gradient_end = "#F7F7F7"
   
   # Background image.
