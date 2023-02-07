@@ -10,7 +10,7 @@ authors:
   - Marco Pagano
   - admin
 
-# date: ''
+date: '2023-01-02'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -74,5 +74,5 @@ image:
 ---
 
 <h2>Keywords</h2>
-COMPSs, Distributed Computing
+Diversification, Employment, Earnings, Risk
 
