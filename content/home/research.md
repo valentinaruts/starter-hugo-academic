@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -49,8 +49,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  gradient_start = "#F7F7F7"
+  gradient_end = "#A5DDD3"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
