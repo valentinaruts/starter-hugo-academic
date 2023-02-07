@@ -72,11 +72,9 @@ subtitle = ""
 +++
 
 <h2>Working Papers</h2>
-<h4>
+
 <p align="justify">
-{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} </h4>
-</p>
- <p align="justify">
+<h4> {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} </h4>
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a> 
 </p>
 {{< spoiler text="Abstract" >}}
