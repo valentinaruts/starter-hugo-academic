@@ -23,7 +23,7 @@ publication_types: ['3']
 publication:
 publication_short: 
 
-abstract: Entrepreneurs with better diversified portfolios
+abstract: Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
