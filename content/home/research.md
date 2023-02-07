@@ -65,7 +65,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = ["/style.css"]
  
  # CSS class.
  css_class = ""
