@@ -23,7 +23,7 @@ publication_types: ['3']
 publication:
 publication_short: 
 
-abstract: Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000 owners, firms owned by more diversified entrepreneurs offer more stable jobs and earnings to employees when faced by idiosyncratic shocks. 
+abstract: Entrepreneurs with better diversified portfolios
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
