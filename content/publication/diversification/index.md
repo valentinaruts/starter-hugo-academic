@@ -23,10 +23,27 @@ publication_types: ['3']
 publication:
 publication_short: 
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Entrepreneurs with better diversified portfolios provide more insurance to employees
+against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
+owners, firms owned by more diversified entrepreneurs offer more stable jobs and
+earnings to employees when faced by idiosyncratic shocks. A one standard deviation
+increase in owner’s diversification reduces the shock’s pass-through rate to labor
+layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
+insurance being partly provided to retain valuable human capital and partly to avoid
+costly terminations. There is no evidence of insurance being priced in average wages.
+{style="text-align: justify;"}
+
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Entrepreneurs with better diversified portfolios provide more insurance to employees
+against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
+owners, firms owned by more diversified entrepreneurs offer more stable jobs and
+earnings to employees when faced by idiosyncratic shocks. A one standard deviation
+increase in owner’s diversification reduces the shock’s pass-through rate to labor
+layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
+insurance being partly provided to retain valuable human capital and partly to avoid
+costly terminations. There is no evidence of insurance being priced in average wages.
+{style="text-align: justify;"}
 
 tags: []
 
