@@ -73,7 +73,6 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} 
 (with [Jan Bena](https://www.janbena.com), [Andrew Ellul](https://sites.google.com/view/andrewellul/home/), and [Marco Pagano](https://sites.google.com/view/marcopagano)).
 {{< spoiler text="Abstract" >}}
@@ -82,4 +81,6 @@ owners, firms owned by more diversified entrepreneurs offer more stable jobs and
 insurance being partly provided to retain valuable human capital and partly to avoid costly terminations. There is no evidence of insurance being priced in average wages.
 {style="text-align: justify;"}
 {{< /spoiler >}}
+
+<h2>Work in Progress</h2>
 
