@@ -43,7 +43,6 @@ increase in owner’s diversification reduces the shock’s pass-through rate to
 layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
 insurance being partly provided to retain valuable human capital and partly to avoid
 costly terminations. There is no evidence of insurance being priced in average wages.
-{style="text-align: justify;"}
 
 tags: []
 
