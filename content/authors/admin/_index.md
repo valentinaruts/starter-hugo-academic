@@ -55,7 +55,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<h2>Welcome!<\h2>
+<h2>Welcome!</h2>
 
 I am a Ph.D. candidate in Finance at the University of British Columbia, Sauder School of Business.
 {style="text-align: justify;"}
