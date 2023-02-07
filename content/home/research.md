@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<h2>**Working Papers**</h2>
+<h2>Working Papers</h2>
 
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} 
