@@ -58,8 +58,8 @@ date_format = "Jan 2006"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#F7F7F7"
-  gradient_end = "#FAE8BF"
+  gradient_start = "#e8f4fc"
+  gradient_end = "#b3dff5"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
