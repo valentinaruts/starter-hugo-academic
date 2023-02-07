@@ -72,7 +72,8 @@ subtitle = ""
 +++
 
 <h2>Working Papers</h2>
-<b>{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}</b> 
+
+{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} 
 (with [Jan Bena](https://www.janbena.com), [Andrew Ellul](https://sites.google.com/view/andrewellul/home/), and [Marco Pagano](https://sites.google.com/view/marcopagano)).
 {{< spoiler text="Abstract" >}}
 Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
