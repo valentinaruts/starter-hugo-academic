@@ -74,5 +74,4 @@ image:
 ---
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-<h2>Keywords</h2>
-COMPSs, Distributed Computing
+
