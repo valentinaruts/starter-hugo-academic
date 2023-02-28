@@ -75,6 +75,7 @@ subtitle = ""
 
 <p align="justify">
 <font size="5"> {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} </font>
+  
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a> 
 <!--
 THIS IS A COMMENT <font size="3"><i>Presented/scheduled: UNC-Duke Corporate Finance 2023, SFS Cavalcade 2023, FIRS 2023</i></font>
