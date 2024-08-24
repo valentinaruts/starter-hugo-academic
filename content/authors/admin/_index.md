@@ -63,7 +63,7 @@ I am on the 2024/2025 job market.
 In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. In my job market paper, I study the effect of children on women-owned start-ups.
 {style="text-align: justify;"} 
 
-You can learn more about me in my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
+You can learn more about me in my {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
 
 Email me: valentina.rutigliano@sauder.ubc.ca
 
