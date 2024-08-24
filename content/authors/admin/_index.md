@@ -6,7 +6,7 @@ title: Valentina Rutigliano
 superuser: true
 
 # Role/position/tagline
-role: Stone Postdoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,13 +55,14 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoctoral Fellow at the Vancouver School of Economics. In August 2024, I obtained my Ph.D. from the Sauder School of Business.
+I am a <a href="https://www.stonefdn.org/wealth-inequality-centers" target="_blank">Stone</a> Postdoctoral Fellow at the Vancouver School of Economics. In August 2024, I obtained my Ph.D. from the Sauder School of Business.
 
 I am on the 2024/2025 job market!
 
 {style="text-align: justify;"}
-I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics.
-{style="text-align: justify;"} In my job market paper, I study the effect of children on women-owned start-ups.
+In my job market paper, I study the effect of children on women-owned start-ups. In my research agenda, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics.
+{style="text-align: justify;"} 
+
 You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
 
 Email me: valentina.rutigliano@sauder.ubc.ca
