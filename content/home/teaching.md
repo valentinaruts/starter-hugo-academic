@@ -23,10 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://www.ubc.ca/"
   location = ""
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """
   *	COMM 371 Investment Theory (B.Com.), 2021   
-
+  <i>Paul Chwelos Memorial Award for Teaching Excellence</i>
   """
 
 [[experience]]
@@ -35,9 +35,9 @@ date_format = "Jan 2006"
   company_url = "https://www.ubc.ca/"
   location = ""
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2024-06-30"
   description = """
-  *	BAFI 502 Corporate Finance (MBA), 2019-2023
+  *	BAFI 502 Corporate Finance (MBA), 2019-2024
   *	COEC 371 Investment Theory (B.Com.), 2022
   * BAFI 500 Introductory Finance (MBA), 2018-2020
   * COMM 486Q Advanced Corporate Finance (B.Com.), 2018-2020
