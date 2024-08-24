@@ -10,7 +10,7 @@ role: Stone Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Vancouver School of Economics
+  - name: University of British Columbia
     url: https://economics.ubc.ca/
 
 
@@ -55,12 +55,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Stone Postdoctoral Fellow at the Vancouver School of Economics. In August 2024, I obtained my Ph.D. from the Sauder School of Business.
+I am a Stone Postdoctoral Fellow at the Vancouver School of Economics. I am on the 2024/2025 job market!
 {style="text-align: justify;"}
-My research interests include corporate finance, entrepreneurship, and labor economics. Currently, I research the effect of corporate ownership structure on workers and the determinants of entrepreneurial entry and success. I am especially interested in understanding what causes the persistent gender gap in entrepreneurship.
+I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics.
 {style="text-align: justify;"}
-{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
+You can find my CV {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>here</ins>{{< /staticref >}}. 
 
-Email: valentina.rutigliano@sauder.ubc.ca
+Email me: valentina.rutigliano@sauder.ubc.ca
 
-Address: HA884D, 2053 Main Mall, Vancouver, BC V6T 1Z2
