@@ -84,10 +84,10 @@ Employer-Employee Data Workshop; EFA; scheduled: NFA (PhD session); FMA; INFORMS
 {style="text-align: justify;"}</font>
 
 <p align="justify">
-<font size="4">{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}</font>
+<font size="4">{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}}</font> <br>
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a> 
 
-<font size="3"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i>
+<font size="3"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
 Presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
 Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions </font>
 {style="text-align: justify;"}
