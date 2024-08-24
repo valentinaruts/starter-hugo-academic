@@ -82,7 +82,8 @@ Job Market Paper. Updated draft coming soon.
 <h4> {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} </h4>
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a> 
 
-THIS IS A COMMENT <font size="3"><i>Presented/scheduled: UNC-Duke Corporate Finance 2023, SFS Cavalcade 2023, FIRS 2023</i></font>
+<font size="3"><i>Presentations: (2023) UNC-Duke Corporate Finance, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
+Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions </i></font>
 
 </p>
 {{< spoiler text="Abstract" >}}
