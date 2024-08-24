@@ -6,12 +6,12 @@ title: Valentina Rutigliano
 superuser: true
 
 # Role/position/tagline
-role: Finance Ph.D. candidate
+role: Stone Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sauder School of Business
-    url: https://www.sauder.ubc.ca/
+  - name: Vancouver School of Economics
+    url: https://economics.ubc.ca/
 
 
 # Interests to show in About widget
@@ -25,21 +25,21 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:valentina.rutigliano@sauder.ubc.ca
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/valentinaruts
+# - icon: envelope
+#    icon_pack: fas
+#    link: mailto:valentina.rutigliano@sauder.ubc.ca
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/valentinaruts
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/valentinaruts
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/valentina-rutigliano-297353110/
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/valentinaruts
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/valentina-rutigliano-297353110/
 
 
 # Link to a PDF of your resume/CV.
@@ -55,9 +55,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome!
-
-I am a Ph.D. candidate in Finance at the University of British Columbia, Sauder School of Business.
+I am a Stone Postdoctoral Fellow at the Vancouver School of Economics. In August 2024, I obtained my Ph.D. from the Sauder School of Business.
 {style="text-align: justify;"}
 My research interests include corporate finance, entrepreneurship, and labor economics. Currently, I research the effect of corporate ownership structure on workers and the determinants of entrepreneurial entry and success. I am especially interested in understanding what causes the persistent gender gap in entrepreneurship.
 {style="text-align: justify;"}
