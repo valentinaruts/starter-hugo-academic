@@ -77,6 +77,10 @@ subtitle = ""
 {{< icon name="file-lines" pack="fas" >}}Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap </ins> </h4>
 Job Market Paper. Updated draft coming soon.
 
+<font size="3"><i>Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
+French); Organizations & Markets Workshop at Queen’s
+University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
+Employer-Employee Data Workshop; EFA; scheduled: NFA (PhD session); FMA; INFORMS; Simon Fraser University; US Census Bureau </i></font>
 
 <p align="justify">
 <h4> {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins>Entrepreneurs' Diversification and Labor Income Risk</ins>{{< /staticref >}} </h4>
