@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /talk/
+Disallow: /publication-type/
+Sitemap: https://www.valentinarutigliano.com/sitemap.xml
