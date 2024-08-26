@@ -74,11 +74,12 @@ subtitle = ""
 <h2>Working Papers</h2>
 
 {{< icon name="file-lines" pack="fas" >}}<b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b> <br>
-Job Market Paper. Updated draft coming soon. <p align="justify"><font size="3">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
+Job Market Paper. Updated draft coming soon.<br>
+<font size="3">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
 French); Organizations & Markets Workshop at Queen’s
 University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
 Employer-Employee Data Workshop; EFA; scheduled: NFA (PhD session); FMA; INFORMS; Simon Fraser University; US Census Bureau
-</font></p>
+</font>
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a><br>
