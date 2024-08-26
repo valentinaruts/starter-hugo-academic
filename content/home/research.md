@@ -83,9 +83,9 @@ Employer-Employee Data Workshop; EFA; scheduled: NFA (PhD session); FMA; INFORMS
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a>
-<p align="justify"><font size="3"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
+<font size="3"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
 Presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
-Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions </font></p>
+Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions </font>
 {{< spoiler text="Abstract" >}}
 Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
 owners, firms owned by more diversified entrepreneurs offer more stable jobs and earnings to employees when faced by idiosyncratic shocks. A one standard deviation increase in owner’s diversification reduces the shock’s pass-through rate to labor layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
