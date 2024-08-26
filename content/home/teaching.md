@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = ""
-  date_start = "2018-01-01"
+  date_start = "2018-09-01"
   date_end = "2024-06-30"
   description = """
   *	BAFI 502 Corporate Finance (MBA), 2019-2024
