@@ -73,8 +73,8 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-{{< icon name="file-lines" pack="fas" >}}<font size="5"><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b> <br>
-Job Market Paper. Updated draft coming soon.</font> <br>
+{{< icon name="file-lines" pack="fas" >}}<b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b> <br>
+Job Market Paper. Updated draft coming soon. <br>
 <font size="4">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
 French); Organizations & Markets Workshop at Queen’s
 University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
