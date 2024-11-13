@@ -81,7 +81,7 @@ French); Organizations & Markets Workshop at Queen’s
 University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
 Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
 <font size="4">
-<div style="padding-top: 5px; padding-bottom: 5px;">
+<div style="padding-top: 1px; padding-bottom: 1px;">
     {{< spoiler text="[Show/Hide Abstract]" >}}
         Women are less likely than men to start firms and female entrepreneurs are less likely to succeed. This paper studies the effect of childbirth on women's entrepreneurial activity. Drawing on rich administrative data from Canada and using an event study and instrumental variable design, I show that childbirth has substantial negative effects on women's founding rates and firm performance, accounting for a large share of the gender gap in entrepreneurship. The impact spills over onto workers, who experience a decrease in earnings. The effects are permanent: entrepreneurial outcomes never recover to their pre-birth levels. The results are not due to a reduction in risk-taking and cannot be fully explained by household specialization based on labor market advantage. Childcare availability, progressive gender norms, and access to credit reduce the adverse effect of childbirth on the entrepreneurship gap. </font>
 {style="text-align: justify;"}
@@ -94,11 +94,12 @@ Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; 
 Presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
 Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions</font>
 <font size="4">
+<div style="padding-top: 1px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
 owners, firms owned by more diversified entrepreneurs offer more stable jobs and earnings to employees when faced by idiosyncratic shocks. A one standard deviation increase in owner’s diversification reduces the shock’s pass-through rate to labor layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
-insurance being partly provided to retain valuable human capital and partly to avoid costly terminations. There is no evidence of insurance being priced in average wages.
+insurance being partly provided to retain valuable human capital and partly to avoid costly terminations. There is no evidence of insurance being priced in average wages.</font>
 {style="text-align: justify;"}
 {{< /spoiler >}}
-</font>
+</div>
 
