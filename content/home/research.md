@@ -104,3 +104,4 @@ insurance being partly provided to retain valuable human capital and partly to a
 </div>
 
 <h2>Work In Progress </h2>
+<b>Firm Response to Demand Shocks through the Product Portfolio</b>
