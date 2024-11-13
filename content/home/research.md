@@ -107,7 +107,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 <b>Firm Response to Demand Shocks through the Product Portfolio</b><br>
 <font size="4"><i>CRDCN Emerging Scholars Grant</i> <br></font>
 <font size="4">
-<div style="padding-top: 15px; padding-bottom: 1px;">
+<div style="padding-top: 25px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 Young firms create more jobs than established firms in response to positive demand shocks, yet the mechanisms behind this excess responsiveness remain largely unknown. This paper investigates the strategic choices firms make to exploit growth opportunities at different stages of their life cycle. Using detailed data on firms' international trade activities, I show that the decisions to increase market penetration in existing markets, diversify their product portfolios, or expand into new geographic markets in response to demand shocks vary over the life cycle. Young entrepreneurs, not just young firms, are more responsive to demand shocks.
 {style="text-align: justify;"}
