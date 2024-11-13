@@ -74,7 +74,7 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
+{{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
 <font size="4"><i>Job Market Paper </i> <br>
 Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie; CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
 Employer-Employee Data Workshop; EFA; FMA; US Census Bureau; Accelerating Growth for Women-led SMEs; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
@@ -104,7 +104,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 </div>
 
 <h2>Work In Progress </h2>
-<b>Firm Response to Demand Shocks through the Product Portfolio</b>
+<b>Firm Response to Demand Shocks through the Product Portfolio</b><br>
 <font size="4"><i>CRDCN Emerging Scholars Grant</i> <br>
 <div style="padding-top: 0px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
@@ -114,6 +114,6 @@ blah blah
   </font>
 </div>
 
-<b>Commodity Price Shocks and Growth in the Green Economy: Evidence from the Mining Sector</b>
+<b>Commodity Price Shocks and Growth in the Green Economy: Evidence from the Mining Sector</b><br>
 <font size="4">with <a href="https://www.janbena.com">Jan Bena</a> <br>
 </font>
