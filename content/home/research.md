@@ -82,10 +82,10 @@ University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality;
 Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
 <font size="4">
 <div style="padding-top: 1px; padding-bottom: 1px;">
-    {{< spoiler text="[Show/Hide Abstract]" >}}
-        Women are less likely than men to start firms and female entrepreneurs are less likely to succeed. This paper studies the effect of childbirth on women's entrepreneurial activity. Drawing on rich administrative data from Canada and using an event study and instrumental variable design, I show that childbirth has substantial negative effects on women's founding rates and firm performance, accounting for a large share of the gender gap in entrepreneurship. The impact spills over onto workers, who experience a decrease in earnings. The effects are permanent: entrepreneurial outcomes never recover to their pre-birth levels. The results are not due to a reduction in risk-taking and cannot be fully explained by household specialization based on labor market advantage. Childcare availability, progressive gender norms, and access to credit reduce the adverse effect of childbirth on the entrepreneurship gap. </font>
+{{< spoiler text="[Show/Hide Abstract]" >}}
+Women are less likely than men to start firms and female entrepreneurs are less likely to succeed. This paper studies the effect of childbirth on women's entrepreneurial activity. Drawing on rich administrative data from Canada and using an event study and instrumental variable design, I show that childbirth has substantial negative effects on women's founding rates and firm performance, accounting for a large share of the gender gap in entrepreneurship. The impact spills over onto workers, who experience a decrease in earnings. The effects are permanent: entrepreneurial outcomes never recover to their pre-birth levels. The results are not due to a reduction in risk-taking and cannot be fully explained by household specialization based on labor market advantage. Childcare availability, progressive gender norms, and access to credit reduce the adverse effect of childbirth on the entrepreneurship gap. </font>
 {style="text-align: justify;"}
-    {{< /spoiler >}}
+{{< /spoiler >}}
 </div>
 <hr style="border-top: 1px solid #ccc; margin: 20px 0;">
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
