@@ -109,7 +109,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 <font size="4">
 <div style="padding-top: 15px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
-blah blah 
+Young firms are more responsive to demand shocks than established firms, yet the mechanisms behind this responsiveness remain largely unknown. This paper investigates the strategic choices firms make to exploit growth opportunities at different stages of their life cycle. Using detailed data on firms' international trade activities, I show that the decisions to increase market penetration in existing markets, diversify their product portfolios, or expand into new geographic markets in response to demand shocks varies across the life cycle. 
 {style="text-align: justify;"}
 {{< /spoiler >}}
   </font>
