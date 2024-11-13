@@ -107,7 +107,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 <b>Firm Response to Demand Shocks through the Product Portfolio</b><br>
 <font size="4"><i>CRDCN Emerging Scholars Grant</i> <br></font>
 <font size="4">
-<div style="padding-top: 10px; padding-bottom: 1px;">
+<div style="padding-top: 15px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 blah blah 
 {style="text-align: justify;"}
