@@ -76,10 +76,8 @@ subtitle = ""
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
 <font size="4"><i>Job Market Paper </i> <br>
-Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
-French); Organizations & Markets Workshop at Queen’s
-University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
-Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
+Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie; CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
+Employer-Employee Data Workshop; EFA; FMA; US Census Bureau; Accelerating Growth for Women-led SMEs; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
 <font size="4">
 <div style="padding-top: 0px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
