@@ -73,7 +73,7 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-{{< icon name="file-lines" pack="fas" >}}<b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b> <br>
+{{< icon name="file-lines" pack="fas" >}}{{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship</b></ins>{{< /staticref >}} <br>
 Job Market Paper. Updated draft coming soon.<br>
 <font size="3">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
 French); Organizations & Markets Workshop at Queen’s
