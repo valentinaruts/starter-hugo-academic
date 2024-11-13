@@ -86,8 +86,7 @@ Women are less likely than men to start firms and female entrepreneurs are less 
 {style="text-align: justify;"}
 {{< /spoiler >}}
 </font>
-
-
+<hr style="border-top: 1px solid #ccc; margin: 20px 0;">
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 <font size="3">with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a></font><br>
 <font size="3"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
