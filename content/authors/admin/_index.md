@@ -59,7 +59,9 @@ Hello! I am a <a href="https://www.stonefdn.org/wealth-inequality-centers" targe
 
 I am on the 2024/2025 job market.
 
-In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. In my job market paper, I study the effect of children on women-owned start-ups.
+In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. My work has two main
+strands. The first focuses on how family decisions impact entrepreneurs and their firms. The second
+examines firms’ responses to economic shocks. In my job market paper, I study the effect of children on women's entrepreneurial activities.
 
 You can learn more about me in my {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
 
