@@ -71,6 +71,22 @@ subtitle = ""
  css_class = ""
 +++
 
+.spoiler-button {
+    font-size: 14px;
+    color: #007acc;
+    border: 1px solid #007acc;
+    padding: 5px 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+}
+.spoiler-content {
+    text-align: justify;
+}
+
+
 <h2>Working Papers</h2>
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
