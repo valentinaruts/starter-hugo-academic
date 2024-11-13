@@ -78,7 +78,7 @@ Job Market Paper<br>
 <font size="3">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
 French); Organizations & Markets Workshop at Queen’s
 University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
-Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop
+Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under
 </font>
 <font size="4">
 {{< spoiler text="Abstract" >}}
