@@ -73,9 +73,9 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-<h3>{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship</b></ins>{{< /staticref >}}</h3>
-Job Market Paper<br>
-<font size="3">Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
+{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship</b></ins>{{< /staticref >}}<br>
+<font size="4"> Job Market Paper<br>
+Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
 French); Organizations & Markets Workshop at Queen’s
 University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
 Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under
