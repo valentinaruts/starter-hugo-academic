@@ -76,18 +76,17 @@ subtitle = ""
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
 <font size="4"><i>Job Market Paper </i> <br>
-Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
-French); Organizations & Markets Workshop at Queen’s
-University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
-Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
-<font size="4">
 <div style="padding-top: 0px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 Women are less likely than men to start firms and female entrepreneurs are less likely to succeed. This paper studies the effect of childbirth on women's entrepreneurial activity. Drawing on rich administrative data from Canada and using an event study and instrumental variable design, I show that childbirth has substantial negative effects on women's founding rates and firm performance, accounting for a large share of the gender gap in entrepreneurship. The impact spills over onto workers, who experience a decrease in earnings. The effects are permanent: entrepreneurial outcomes never recover to their pre-birth levels. The results are not due to a reduction in risk-taking and cannot be fully explained by household specialization based on labor market advantage. Childcare availability, progressive gender norms, and access to credit reduce the adverse effect of childbirth on the entrepreneurship gap. 
 {style="text-align: justify;"}
 {{< /spoiler >}}
-</font>
 </div>
+Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie (in
+French); Organizations & Markets Workshop at Queen’s
+University (PhD session); CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
+Employer-Employee Data Workshop; EFA; NFA (PhD session); FMA; US Census Bureau; Monash University; Simon Fraser University; scheduled: HEC Paris Entrepreneurship Workshop; (2025) Finance Down Under</font>
+
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 <font size="4">with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a></font><br>
