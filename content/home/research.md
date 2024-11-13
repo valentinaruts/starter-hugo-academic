@@ -95,7 +95,7 @@ Women are less likely than men to start firms and female entrepreneurs are less 
 Presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
 Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions</font>
 <font size="4">
-<div style="padding-top: 0px; padding-bottom: 1px;">
+<div style="padding-top: -5px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 Entrepreneurs with better diversified portfolios provide more insurance to employees against labor income risk: in a sample of over 524,000 Canadian firms and 858,000
 owners, firms owned by more diversified entrepreneurs offer more stable jobs and earnings to employees when faced by idiosyncratic shocks. A one standard deviation increase in owner’s diversification reduces the shock’s pass-through rate to labor layoffs by 13% and to workers’ earnings by 41%. The data are consistent with such
