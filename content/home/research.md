@@ -118,7 +118,7 @@ Young firms create more jobs than established firms in response to positive dema
 <b>Commodity Price Shocks and Growth in the Green Economy: Evidence from the Mining Sector</b><br>
 <font size="4">with <a href="https://www.janbena.com">Jan Bena</a> <br></font>
 <font size="4">
-<div style="padding-top: 20px; padding-bottom: 1px;">
+<div style="padding-top: 0px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 This study examines the Canadian mining sector's responsiveness to global price shocks, particularly focusing on critical minerals essential for the low-carbon transition, such as cobalt, nickel, and lithium. First, we show that exploration and extraction activities respond heavily to global commodity price fluctuations. Second, we study how human capital is reallocated from other sectors as sustainable mining emerges as a key industry, considering both the professional pathways of workers transitioning into the mining industry and individuals who become founders or early-stage investors in new mining ventures. 
 {style="text-align: justify;"}
