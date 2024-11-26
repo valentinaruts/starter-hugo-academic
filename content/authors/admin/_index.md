@@ -57,7 +57,7 @@ highlight_name: true
 ---
 Hello! I am a <a href="https://www.stonefdn.org/wealth-inequality-centers" target="_blank">Stone</a> Postdoctoral Fellow at the Vancouver School of Economics. In August 2024, I obtained my Ph.D. from the Sauder School of Business.
 
-I am on the 2024/2025 job market.
+I am on the 2024/2025 job market. I will attend the 2025 ASSA meetings in San Francisco.
 
 In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. My work has two main
 strands. The first focuses on how family decisions impact entrepreneurs and their firms. The second
