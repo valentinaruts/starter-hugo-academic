@@ -61,7 +61,7 @@ I am on the 2024/2025 job market. I will attend the 2025 ASSA meeting in San Fra
 
 In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. My work has two main
 strands. The first focuses on how family decisions impact entrepreneurs and their firms. The second
-examines firms’ responses to economic shocks. In my job market paper, I study the effect of children on women's entrepreneurial activities.
+examines firms’ responses to economic shocks. In my job market paper, I study the effect of children on women's entrepreneurial activities. My research has been featured in Forbes.
 
 You can learn more about me in my {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
 
