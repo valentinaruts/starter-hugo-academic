@@ -77,8 +77,7 @@ subtitle = ""
 {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
 <font size="4"><i>Job Market Paper </i> <br>
 Media Coverage: <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a> <br>
-Presentations: (2024) SFS Cavalcade; CIRANO & Université Laval Les femmes en économie; CSEF-RCFS Conference on Finance, Labor and Inequality; Linked
-Employer-Employee Data Workshop; EFA; FMA; US Census Bureau; IDB Accelerating Growth for Women-led SMEs; Monash; Simon Fraser; Wilfrid Laurier; scheduled: HEC Paris Entrepreneurship Workshop; (2025) AEA; Finance Down Under</font>
+Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; FMA; US Census Bureau; Monash University; HEC Paris Entrepreneurship Workshop; (2025) AEA; UQAM; University of Illinois Urbana-Champaign; Copenhagen Business School; Stockholm School of Economics; Universidad Carlos III; Frankfurt School of Finance and Management; London Business School; Hong Kong University; McGill University; Southern Methodist University; scheduled: Finance Down Under</font>
 <font size="4">
 <div style="padding-top: -10px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
