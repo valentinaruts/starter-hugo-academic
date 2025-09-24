@@ -59,7 +59,7 @@ Hello! I am an Assistant Professor of Finance at the Cox School of Business at S
 
 My research interests are in corporate finance, labor economics, and entrepreneurship. One strand of my research uses administrative microdata to study how household shocks propagate to entrepreneurial firms. A second strand studies the effect of demand and technological shocks at the firm level on workers’ careers and inequality. My research has been featured in <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a>.
 
-Before joining SMU, I was a <a href="https://www.stonefdn.org/" target="_blank">Stone</a> Postdoctoral Fellow at the University of British Columbia. You can learn more about me in my {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
+Before joining SMU, I was a <a href="https://www.stonefdn.org/" target="_blank">Stone</a> Postdoctoral Fellow at the University of British Columbia. You can learn more about me in my {{< staticref "uploads/CV_sep25.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
 
 Email me: vrutigliano@smu.edu
 
