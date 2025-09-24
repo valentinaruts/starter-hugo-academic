@@ -55,7 +55,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am an Assistant Professor of Finance at the Cox School of Business at Southern Methodist University since August 2025.
+Hello! I am an Assistant Professor of Finance at the Cox School of Business at SMU since August 2025.
 
 My research interests are in corporate finance, labor economics, and entrepreneurship. One strand of my research uses administrative microdata to study how household shocks propagate to entrepreneurial firms. A second strand studies the effect of demand and technological shocks at the firm level on workers’ careers and inequality. My job market paper has been featured in <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a>.
 
