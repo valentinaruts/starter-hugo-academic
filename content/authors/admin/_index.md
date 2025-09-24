@@ -55,9 +55,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am a <a href="https://www.stonefdn.org/wealth-inequality-centers" target="_blank">Stone</a> Postdoctoral Fellow at the Vancouver School of Economics.
-
-In August 2025, I will join the Cox School of Business at SMU as an Assistant Professor of Finance.
+Hello! I am an Assistant Professor of Finance at the Cox School of Business at Southern Methodist University.
 
 In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. My work has two main
 strands. The first focuses on how family decisions impact entrepreneurs and their firms. The second
@@ -65,5 +63,5 @@ examines firms’ responses to economic shocks. In my job market paper, I study 
 
 You can learn more about me in my {{< staticref "uploads/CV.pdf" "newtab" >}}<ins>CV</ins>{{< /staticref >}}. 
 
-Email me: valentina.rutigliano@sauder.ubc.ca
+Email me: vrutigliano@smu.edu
 
