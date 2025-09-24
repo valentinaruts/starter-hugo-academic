@@ -6,12 +6,12 @@ title: Valentina Rutigliano
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of British Columbia
-    url: https://economics.ubc.ca/
+  - name: Southern Methodist University
+    url: https://www.smu.edu/
 
 
 # Interests to show in About widget
