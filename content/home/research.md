@@ -77,7 +77,7 @@ subtitle = ""
 {{< staticref "uploads/Valentina_Rutigliano_JMP.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Motherhood and the Entrepreneurship Gap</b></ins>{{< /staticref >}}<br>
 <font size="4"><i>Job Market Paper </i> <br>
 Media Coverage: <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a> <br>
-Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; FMA; US Census Bureau; Monash University; HEC Paris Entrepreneurship Workshop; (2025) AEA; UQAM; University of Illinois Urbana-Champaign; Copenhagen Business School; Stockholm School of Economics; Universidad Carlos III; Frankfurt School of Finance and Management; London Business School; Hong Kong University; McGill University; Southern Methodist University; scheduled: Finance Down Under</font>
+Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; HEC Paris Entrepreneurship Workshop; (2025) AEA; Finance Down Under; SITE Gender Session; LSE CenTax Workshop (2026) scheduled: AFA </font>
 <font size="4">
 <div style="padding-top: -10px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
@@ -90,8 +90,8 @@ Women are less likely than men to start firms and female entrepreneurs are less 
 {{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 <font size="4">with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a></font><br>
 <font size="4"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
-Presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
-Inequality; ECGI Conference on Resilience of Family Businesses*; EFA*; NFA; FMA; HEC Montreal; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions</font>
+Selected presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
+Inequality; EFA*; NFA; (2024) ASSA Econometrics Society*, CSEF-IGIER Symposium on Economics and Institutions</font>
 <font size="4">
 <div style="padding-top: -10px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
