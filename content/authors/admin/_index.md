@@ -56,6 +56,7 @@ social:
 highlight_name: true
 ---
 Hello! I am an Assistant Professor of Finance at the Cox School of Business at Southern Methodist University.
+Before joining SMU, I was a <a href="https://www.stonefdn.org/" target="_blank">Stone</a> Postdoctoral Fellow at the University of British Columbia.
 
 In my research, I use administrative data to answer questions at the intersection of entrepreneurial finance and labor economics. My work has two main
 strands. The first focuses on how family decisions impact entrepreneurs and their firms. The second
