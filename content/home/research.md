@@ -87,7 +87,7 @@ Using Canadian administrative data, I document that childbirth has substantial a
   </font>
 </div>
 
-{{< staticref "uploads/Diversification_and_Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
+{{< staticref "uploads/Diversification and Insurance.pdf" "newtab" >}}<ins><b>Entrepreneurs' Diversification and Labor Income Risk</b></ins>{{< /staticref >}} <br>
 <font size="4">with <a href="https://www.janbena.com">Jan Bena</a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a></font><br>
 <font size="4"><i>FMA Best Paper in Corporate Finance; CSEF/UniCredit Foundation Best Paper Award </i> <br>
 Selected presentations: (2023) UNC-Duke Corporate Finance*, SFS Cavalcade, FIRS, CSEF - RCFS Conference on Finance, Labor and
