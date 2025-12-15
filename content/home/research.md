@@ -103,25 +103,4 @@ insurance being partly provided to retain valuable human capital and partly to a
 </font>
 </div>
 
-<h2>Work In Progress </h2>
-<b>Firm Response to Demand Shocks through the Product Portfolio</b><br>
-<font size="4"><i>CRDCN Emerging Scholars Grant</i> <br></font>
-<font size="4">
-<div style="padding-top: 20px; padding-bottom: 1px;">
-{{< spoiler text="[Show/Hide Abstract]" >}}
-Young firms create more jobs than established firms in response to positive demand shocks, yet the mechanisms behind this excess responsiveness remain largely unknown. This paper investigates the strategic choices firms make to exploit growth opportunities at different stages of their life cycle. Using detailed data on firms' international trade activities, I show that the decisions to increase market penetration in existing markets, diversify their product portfolios, or expand into new geographic markets in response to demand shocks vary over the life cycle. Young entrepreneurs, not just young firms, are more responsive to demand shocks.
-{style="text-align: justify;"}
-{{< /spoiler >}}
-  </font>
-</div>
-
-<b>Commodity Price Shocks and Growth in the Green Economy: Evidence from the Mining Sector</b><br>
-<font size="4">with <a href="https://www.janbena.com">Jan Bena</a> <br></font>
-<font size="4">
-<div style="padding-top: 0px; padding-bottom: 1px;">
-{{< spoiler text="[Show/Hide Abstract]" >}}
-This study examines the mining sector's responsiveness to global commodity price shocks, with a focus on critical minerals essential for the low-carbon transition, such as cobalt, nickel, and lithium. First, we show that exploration and extraction activities are highly responsive to global commodity price fluctuations. Second, we analyze the reallocation of human capital from other sectors as sustainable mining emerges as a key industry. Our analysis considers both the flow of professionals from various industries into mining and the individuals who capitalize on these opportunities to establish new firms or become early-stage investors in mining ventures. 
-{style="text-align: justify;"}
-{{< /spoiler >}}
-  </font>
-</div>
+ 
