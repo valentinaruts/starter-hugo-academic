@@ -104,4 +104,15 @@ insurance being partly provided to retain valuable human capital and partly to a
 </font>
 </div>
 
- 
+{{< staticref "uploads/Entrepreneurs_as_Households.pdf" "newtab" >}}<ins><b>Entrepreneurs as Households (draft available soon) </b></ins>{{< /staticref >}} <br>
+<font size="4">with <a href="https://www.janbena.com">Isaac Hacamo </a>, <a href="https://sites.google.com/view/andrewellul/home/">Andrew Ellul</a>, and <a href="https://sites.google.com/view/marcopagano">Marco Pagano</a></font><br>
+Presentations: (2026) Scheduled: Chicago Entrepreneurial Finance Workshop; Nordic Household Finance Summit; Mitsui Symposium on Private Capital Markets;  </font>
+<font size="4">
+<div style="padding-top: -10px; padding-bottom: 1px;">
+{{< spoiler text="[Show/Hide Abstract]" >}}
+Most entrepreneurs live in households with multiple members, yet the existing academic work treats them as isolated individuals, overlooking how intra-household risk sharing may shape firm-level decisions. Using an exogenous increase in labor income risk, we show that entrepreneurs married to exposed workers reduce firm size and leverage, and increase their demand for liquid assets. Additional empirical evidence, using proxies for risk aversion and firm riskiness, supports a precautionary savings motive. We develop a macro model with risk-averse entrepreneurs who have heterogeneous productivity and face borrowing constraints. Relative to a conventional economy with entrepreneurs and workers as separate agents, an economy featuring entrepreneurs married to workers leads to greater concentration of capital among the most productive entrepreneurs. Following a negative productivity shock, concentration further  increases, but total output declines relative to a conventional economy.
+
+{style="text-align: justify;"}
+{{< /spoiler >}}
+</font>
+</div>
