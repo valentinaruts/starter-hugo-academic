@@ -74,7 +74,7 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-{{< staticref "uploads/Valentina_Rutigliano_JFE.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Childbirth and the Organization of Entrepreneurial Firms </b></ins>{{< /staticref >}}<br>
+{{< staticref "uploads/Valentina_Rutigliano_jmp.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Childbirth and the Organization of Entrepreneurial Firms </b></ins>{{< /staticref >}}<br>
 <font size="4"><i> Revise and Resubmit, Journal of Financial Economics </i> <br>
 Media Coverage: <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a> <br>
 Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; HEC Paris Entrepreneurship Workshop; (2025) AEA; Finance Down Under; SITE Gender Session; LSE CenTax Workshop; (2026) AFA </font>
