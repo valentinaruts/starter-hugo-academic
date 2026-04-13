@@ -105,7 +105,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 </div>
 
 {{< staticref "uploads/Entrepreneurs_as_Households.pdf" "newtab" >}}<ins><b>Entrepreneurs as Households (draft available soon) </b></ins>{{< /staticref >}} <br>
-<font size="4">with <a href="https://www.janbena.com">Isaac Hacamo </a></font><br>
+<font size="4">with <a href="https://hacamo.weebly.com">Isaac Hacamo </a></font><br>
 Presentations: (2026) Scheduled: Chicago Entrepreneurial Finance Workshop; Nordic Household Finance Summit; Mitsui Symposium on Private Capital Markets;  </font>
 <font size="4">
 <div style="padding-top: -10px; padding-bottom: 1px;">
