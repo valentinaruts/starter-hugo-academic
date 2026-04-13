@@ -74,14 +74,15 @@ subtitle = ""
 
 <h2>Working Papers</h2>
 
-{{< staticref "uploads/Valentina_Rutigliano_JMP_sep25.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Entrepreneurs, Fertility, and Firm and Worker Outcomes </b></ins>{{< /staticref >}}<br>
-<font size="4"><i>Job Market Paper </i> <br>
+{{< staticref "uploads/Valentina_Rutigliano_JFE.pdf" "newtab" >}}<ins><b>Minding Your Business or Your Child? Childbirth and the Organization of Entrepreneurial Firms </b></ins>{{< /staticref >}}<br>
+<font size="4"><i> Revise and Resubmit, Journal of Financial Economics </i> <br>
 Media Coverage: <a href="https://www.forbes.com/sites/kimelsesser/2024/12/02/new-study-reveals-motherhoods-toll-on-women-entrepreneurs/" target="_blank">Forbes</a> <br>
-Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; HEC Paris Entrepreneurship Workshop; (2025) AEA; Finance Down Under; SITE Gender Session; LSE CenTax Workshop; (2026) scheduled: AFA </font>
+Selected presentations: (2024) SFS Cavalcade; CSEF-RCFS Conference on Finance, Labor and Inequality; EFA; HEC Paris Entrepreneurship Workshop; (2025) AEA; Finance Down Under; SITE Gender Session; LSE CenTax Workshop; (2026) AFA </font>
 <font size="4">
 <div style="padding-top: -10px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
-Using Canadian administrative data, I document that childbirth has substantial and persistent effects on female entrepreneurs' firm performance and employees’ outcomes. Over the five years after a founder’s first birth, sales, assets, and profits fall by 15–25%. Performance in firms owned by fathers remains unchanged, while firms owned by spouses experience a moderate decline. The drop in firm outcomes spill over to employees of mother-owned firms, who experience a 4% reduction in earnings. Fertility among employees rises after the entrepreneur's childbirth, suggesting within-firm network effects in family formation. The penalties for mother-owned firms cannot be fully explained by household specialization based on labor market advantage. Childcare availability and progressive gender norms mitigate the adverse effect of childbirth on the entrepreneurship gap.  
+Using Canadian administrative data, I show that childbirth has substantial and persistent negative effects on female entrepreneurs’ firm performance, while father-owned businesses remain largely unaffected. Childbirth also reshapes the firm's workforce. Although incumbent employees experience earnings losses, mother-owned firms become more likely to hire and retain mothers, and employee fertility increases. These patterns are consistent with a shift toward family-friendly firm culture. Finally, I show that childcare availability and
+progressive gender norms mitigate the adverse effect of childbirth on the entrepreneurship gap.
 {style="text-align: justify;"}
 {{< /spoiler >}}
   </font>
