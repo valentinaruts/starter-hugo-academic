@@ -112,7 +112,6 @@ Presentations: (2026) Scheduled: Chicago Entrepreneurial Finance Workshop*; Nord
 <div style="padding-top: -10px; padding-bottom: 1px;">
 {{< spoiler text="[Show/Hide Abstract]" >}}
 Most entrepreneurs live in households with multiple members, yet the existing academic work treats them as isolated individuals, overlooking how intra-household risk sharing may shape firm-level decisions. Using an exogenous increase in labor income risk, we show that entrepreneurs married to exposed workers reduce firm size and leverage, and increase their demand for liquid assets. Additional empirical evidence, using proxies for risk aversion and firm riskiness, supports a precautionary savings motive. We develop a macro model with risk-averse entrepreneurs who have heterogeneous productivity and face borrowing constraints. Relative to a conventional economy with entrepreneurs and workers as separate agents, an economy featuring entrepreneurs married to workers leads to greater concentration of capital among the most productive entrepreneurs. Following a negative productivity shock, concentration further  increases, but total output declines relative to a conventional economy.
-
 {style="text-align: justify;"}
 {{< /spoiler >}}
 </font>
