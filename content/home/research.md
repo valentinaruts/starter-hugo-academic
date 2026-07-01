@@ -104,7 +104,7 @@ insurance being partly provided to retain valuable human capital and partly to a
 </font>
 </div>
 
-{{< staticref "uploads/Entrepreneurs_as_Households.pdf" "newtab" >}}<ins><b>Entrepreneurs as Households (draft available soon) </b></ins>{{< /staticref >}} <br>
+{{< staticref "uploads/Entrepreneurs_as_Households.pdf" "newtab" >}}<ins><b>Entrepreneurs and (Risky) Spouses (draft available soon) </b></ins>{{< /staticref >}} <br>
 <font size="4">with <a href="https://hacamo.weebly.com">Isaac Hacamo </a></font><br>
 <font size="4">
 Presentations: (2026) Chicago Entrepreneurial Finance Workshop*; Nordic Household Finance Summit; Mitsui Symposium on Private Capital Markets*; UNSW Corporate Finance Workshop*; CSEF-CEPR Conference on Labor and Finance; scheduled: NFA; UGA Fall Finance Conference*; (2027) ASSA Econometrics Society  </font>
